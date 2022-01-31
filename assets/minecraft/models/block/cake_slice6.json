@@ -1,0 +1,20 @@
+{
+	"credit": "Made with Blockbench, a free, modern block model editor by JannisX11",
+	"textures": {"0": "block/white_table"},
+	"elements": [
+		{
+			"name": "Base",
+			"from": [3.7999999970197678, 0, 3.7999999970197678],
+			"to": [12.200000002980232, 16, 12.200000002980232],
+			"faces": {
+				"north": {"uv": [0, 0, 8.4, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 8.4, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 8.4, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 8.4, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [0]
+}

@@ -1,0 +1,13 @@
+item.record.name=Music Disc
+item.record.13.desc=AfricaToto
+item.record.cat.desc=MammaMiaAbba
+item.record.blocks.desc=LongTrainRunninDoobie
+item.record.chirp.desc=ListenToTheMusicDoobie
+item.record.far.desc=BlackWaterDoobie
+item.record.mall.desc=LaGrangeZZTop
+item.record.mellohi.desc=SweetDreamsEurythmics
+item.record.stal.desc=StayinAliveBeeGees
+item.record.strad.desc=InTheAirTonightPC
+item.record.ward.desc=SeptemberEWF
+item.record.11.desc=HoldTheLineToto
+item.record.wait.desc=BohemianRhapsodyQueen

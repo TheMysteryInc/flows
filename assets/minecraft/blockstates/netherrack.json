@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/netherrack" },
+            { "model": "block/netherrack" },
+            { "model": "block/netherrack" },
+            { "model": "block/netherrack" },
+            { "model": "block/netherrack" },
+            { "model": "block/netherrack" },
+            { "model": "block/netherrack" },
+            { "model": "block/netherrack" },
+            { "model": "block/netherrack" },
+            { "model": "block/netherrack" },
+            { "model": "block/netherrack" },
+            { "model": "block/netherrack" },
+            { "model": "block/netherrack" },
+            { "model": "block/netherrack" },
+            { "model": "block/netherrack" },
+            { "model": "block/netherrack" }
+        ]
+    }
+}

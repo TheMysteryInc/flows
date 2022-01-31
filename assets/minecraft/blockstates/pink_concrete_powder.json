@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/pink_concrete_powder" },
+            { "model": "block/pink_concrete_powder" },
+            { "model": "block/pink_concrete_powder" },
+            { "model": "block/pink_concrete_powder" }
+        ]
+    }
+}

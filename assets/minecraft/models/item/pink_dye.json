@@ -1,0 +1,7 @@
+{
+	"__comment": "Designed by Tachibana",
+    "parent": "item/kakejiku",
+    "textures": {
+    	"particle": "block/kakejiku/kakejiku7"
+	}
+}
